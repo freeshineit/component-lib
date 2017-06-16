@@ -1,0 +1,24 @@
+{
+  "name": "component-lib",
+  "version": "1.0.0",
+  "description": "component-lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freeshineit/component-lib.git"
+  },
+  "keywords": [
+    "react",
+    "react-lib",
+    "react-component"
+  ],
+  "author": "shine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/freeshineit/component-lib/issues"
+  },
+  "homepage": "https://github.com/freeshineit/component-lib#readme"
+}
